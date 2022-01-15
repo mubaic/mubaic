@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mubaic
+- 👀 I’m interested in learning ...
+-    I’m interested in C#, python, 
